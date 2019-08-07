@@ -476,6 +476,9 @@
     },
     "packrat/packrat.lock": {
       "checksum": "7e6382f4d379864c381d8aa6eb330933"
+    },
+    "README.md": {
+      "checksum": "8082564fefea2b45b19947c463500a07"
     }
   },
   "users": null
